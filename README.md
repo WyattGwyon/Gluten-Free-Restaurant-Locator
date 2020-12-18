@@ -8,6 +8,9 @@ Unfortunately, wheat flour is found in many other bakery products as a stabalizi
 In conclusion, it is difficult to find a confident source of food for Celiacs. It requires, first, an awareness of the disease and its affects on the sufferers. 
 We want to compile a database of restaurants for Celiacs in Madrid. 
 
+### Checkout the `gf_map2.html` and `chain_price_rating2.html` in the creation folder for the results of our work. 
+
+
 # Process
 **Step 1: Finding Data**
 - A simple Google Map Search for Gluten-Free restaurants and yielded 20 locations. 
